@@ -1,4 +1,4 @@
-package KetThua;
+package KetThua.MoveablePointAssignment;
 
 public class Point {
     private float x =0.0f;

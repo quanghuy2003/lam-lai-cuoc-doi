@@ -1,7 +1,5 @@
 package KetThua;
 
-import oop.Hcn;
-
 import java.util.Scanner;
 
 public class MainTriangle {

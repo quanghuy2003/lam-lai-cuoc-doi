@@ -1,5 +1,7 @@
 package KetThua;
 
+import KetThua.geometry.oop.shape;
+
 public class Triangle extends shape {
     private double a = 1;
     private double b = 1;

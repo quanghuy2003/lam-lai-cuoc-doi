@@ -1,4 +1,4 @@
-package oop;
+package KetThua.geometry.oop;
 
 import java.util.Scanner;
 

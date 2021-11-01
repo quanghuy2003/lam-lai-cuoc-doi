@@ -1,4 +1,4 @@
-package KetThua;
+package KetThua.geometry.oop;
 
 public class shape {
     private String color;

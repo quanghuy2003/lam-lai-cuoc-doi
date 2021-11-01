@@ -1,4 +1,4 @@
-package oop;
+package KetThua.geometry.oop;
 
 public class Hcn {
     private int dai;

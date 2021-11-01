@@ -1,6 +1,6 @@
-package KetThua;
+package KetThua.MoveablePointAssignment;
 
-import java.util.Scanner;
+import KetThua.MoveablePointAssignment.MovablePoint;
 
 public class superMain {
     public static void main(String[] args) {

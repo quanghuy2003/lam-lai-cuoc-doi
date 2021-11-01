@@ -1,6 +1,8 @@
-package KetThua;
+package KetThua.Circle;
 
-public class Cylinder extends Circle{
+import KetThua.Circle.Circle;
+
+public class Cylinder extends Circle {
         private int chieucao;
 
     public Cylinder() {
