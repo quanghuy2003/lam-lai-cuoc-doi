@@ -1,4 +1,4 @@
-package KetThua.geometry.oop;
+package rectangular;
 
 import java.util.Scanner;
 

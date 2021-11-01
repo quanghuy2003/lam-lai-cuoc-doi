@@ -1,4 +1,4 @@
-package KetThua;
+package KetThua.geometry.oop;
 
 import KetThua.geometry.oop.shape;
 
